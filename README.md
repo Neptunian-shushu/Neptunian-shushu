@@ -9,15 +9,15 @@
 ## My Skills
 - **Languages**:
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,matlab,r,js&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,matlab,r,js&perline=6)](https://skillicons.dev)
 
 - **Tools**:
 
-[![My Skills](https://skillicons.dev/icons?i=latex,github,vscode,gitlab&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=latex,github,vscode,gitlab&perline=6)](https://skillicons.dev)
 
 - **DevOps**:
 
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,mysql&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,mysql&perline=6)](https://skillicons.dev)
 
 ## My GitHub Stats
 
